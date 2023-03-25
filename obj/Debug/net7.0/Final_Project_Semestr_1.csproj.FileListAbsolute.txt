@@ -1,0 +1,15 @@
+/Users/marinaartemyeva/Final_Project_Semestr_1/bin/Debug/net7.0/Final_Project_Semestr_1
+/Users/marinaartemyeva/Final_Project_Semestr_1/bin/Debug/net7.0/Final_Project_Semestr_1.deps.json
+/Users/marinaartemyeva/Final_Project_Semestr_1/bin/Debug/net7.0/Final_Project_Semestr_1.runtimeconfig.json
+/Users/marinaartemyeva/Final_Project_Semestr_1/bin/Debug/net7.0/Final_Project_Semestr_1.dll
+/Users/marinaartemyeva/Final_Project_Semestr_1/bin/Debug/net7.0/Final_Project_Semestr_1.pdb
+/Users/marinaartemyeva/Final_Project_Semestr_1/obj/Debug/net7.0/Final_Project_Semestr_1.csproj.AssemblyReference.cache
+/Users/marinaartemyeva/Final_Project_Semestr_1/obj/Debug/net7.0/Final_Project_Semestr_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinaartemyeva/Final_Project_Semestr_1/obj/Debug/net7.0/Final_Project_Semestr_1.AssemblyInfoInputs.cache
+/Users/marinaartemyeva/Final_Project_Semestr_1/obj/Debug/net7.0/Final_Project_Semestr_1.AssemblyInfo.cs
+/Users/marinaartemyeva/Final_Project_Semestr_1/obj/Debug/net7.0/Final_Project_Semestr_1.csproj.CoreCompileInputs.cache
+/Users/marinaartemyeva/Final_Project_Semestr_1/obj/Debug/net7.0/Final_Project_Semestr_1.dll
+/Users/marinaartemyeva/Final_Project_Semestr_1/obj/Debug/net7.0/refint/Final_Project_Semestr_1.dll
+/Users/marinaartemyeva/Final_Project_Semestr_1/obj/Debug/net7.0/Final_Project_Semestr_1.pdb
+/Users/marinaartemyeva/Final_Project_Semestr_1/obj/Debug/net7.0/Final_Project_Semestr_1.genruntimeconfig.cache
+/Users/marinaartemyeva/Final_Project_Semestr_1/obj/Debug/net7.0/ref/Final_Project_Semestr_1.dll
